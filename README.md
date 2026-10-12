@@ -17,7 +17,13 @@ Experienced through practical internships and intensive certification training, 
 
 ---
 
+## 🚀 Featured Projects
+* 🛡️ **[Cyberster Blue Team Internship Portfolio](https://github.com)**
+  * An end-to-end sandbox engineering repository documenting live security log metrics, customized endpoint telemetry parsing (`ossec.conf`), automated threat simulation (Hydra/Nmap), and raw JSON log correlation via Wazuh SIEM.
+
+---
+
 ## 📬 Connect with Me
- [![LinkedIn](https://shields.io)](https://linkedin.com/in/haseebak01)
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/haseebak01)
 
 - **GitHub:** You are already here!
