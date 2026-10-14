@@ -24,7 +24,5 @@ Experienced through practical internships and intensive certification training, 
 ---
 
 ## 📬 Connect with Me
-- 🔗 **LinkedIn:** [://linkedin.com](https://://linkedin.com/in/haseebak01)
-
-
+- 🔗 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
 - **GitHub:** You are already here!
