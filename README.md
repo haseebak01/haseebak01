@@ -24,5 +24,5 @@ Experienced through practical internships and intensive certification training, 
 ---
 
 ## 📬 Connect with Me
-- 🔗 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/haseebak01)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/haseebak01)
 - **GitHub:** You are already here!
