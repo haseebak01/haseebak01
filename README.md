@@ -24,6 +24,6 @@ Experienced through practical internships and intensive certification training, 
 ---
 
 ## 📬 Connect with Me
- <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://linkedin.com/in/haseebak01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 - **GitHub:** You are already here!
