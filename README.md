@@ -24,5 +24,5 @@ Experienced through practical internships and intensive certification training, 
 ---
 
 ## 📬 Connect with Me
-- 🔗 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- 🔗 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 - **GitHub:** You are already here!
